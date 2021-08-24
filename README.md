@@ -2,12 +2,12 @@
 
  Сайт книги Путь фрилансера.
 
-# Технологии
+### Технологии
 
-  HTML5,
-  CSS3,
-  Адаптивная верстка
+  * HTML5
+  * CSS3
+  * Адаптивная верстка
   
-# Ссылка для просмотра
+### Ссылка для просмотра
 
-https://cv-lana.github.io/freelancer-way/
+[Link](https://cv-lana.github.io/freelancer-way)
